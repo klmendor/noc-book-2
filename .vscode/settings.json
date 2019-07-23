@@ -3,5 +3,9 @@
     "editor.defaultFormatter": "vscode.html-language-features"
   },
   "files.trimTrailingWhitespace": true,
-  "html.format.wrapLineLength": 100
+  "html.format.wrapLineLength": 100,
+  "cSpell.words": [
+    "креативного",
+    "сфокусированый"
+  ]
 }
